@@ -42,10 +42,6 @@ Technologies I’m currently working with:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uroobaCodes)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=uroobaCodes)
-
-new profile view: 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=uroobaCodes)
 
 
