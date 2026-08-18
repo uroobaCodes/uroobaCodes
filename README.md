@@ -44,4 +44,8 @@ Technologies I’m currently working with:
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=uroobaCodes)
 
+new profile view: 
+
+![Profile Views](https://komarev.com/ghpvc/?username=uroobaCodes)
+
 
