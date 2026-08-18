@@ -1,6 +1,6 @@
 ![Banner](https://github.com/uroobaCodes/uroobaCodes/blob/main/github%20banner.png)
 <p align="center">
- I’m a self-taught developer focused on Automation, Integrations, and Software Development**. My journey began on 13th May, 2023, and since then I’ve expanded from frontend development into workflow automation and programming.
+I’m a self-taught developer focused on Automation, Integrations, and Software Development. My journey began on 13th May, 2023, and since then I’ve expanded from frontend development into workflow automation and programming.
 
 I have hands-on experience with **GoHighLevel, Zapier and Make**, and I’m developing my programming skills with **Python and JavaScript**. I’m also currently exploring **RPA development with UiPath**.
 
