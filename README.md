@@ -40,8 +40,5 @@ Technologies I’m currently working with:
 ## listen with me:  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWkzYmQxeHo2bzVoNWpvcXBycnEyODA3ZXAwaWtnd2tiMDJ4djJzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ujx5mh3uzBKuS79Yfe/giphy.gif" alt="gif" width="70" />
 [![Jazz24](https://img.shields.io/badge/Jazz24-000000?style=flat&logo=music&logoColor=white)](https://www.jazz24.org/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uroobaCodes)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=uroobaCodes)
-
+![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
