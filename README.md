@@ -32,6 +32,10 @@ Technologies I’m currently working with:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-3F3F3F?style=for-the-badge&logo=zustand&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 
 ## Reach Me: <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJqaGxzZ3RsYmFkZzMwc3BrYmR4MWZxb3NibmIxNWRkYWE5M3MzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/woJowrm6ZApWQnFzFS/giphy.gif" alt="gif" width="60" />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uroobacodes/)
